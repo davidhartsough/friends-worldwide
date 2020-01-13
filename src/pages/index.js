@@ -1,20 +1,27 @@
 import React from "react"
 import { Link } from "gatsby"
-
 import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
+import HelmetHead from "../components/seo"
+import ChannelData from "../channels.json"
+
+const channels = ChannelData.channels.sort((a, b) => (a.name > b.name ? 1 : -1))
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <HelmetHead title="Channels" />
+    <h1 className="title">Friends Worldwide</h1>
+    <nav>
+      {channels.map(({ id, name, purpose }) => (
+        <p key={id}>
+          <Link className="channel-link" to={`/${name}`}>
+            #{name}
+          </Link>{" "}
+          {purpose.value.length > 0 && (
+            <span className="purpose">[{purpose.value}]</span>
+          )}
+        </p>
+      ))}
+    </nav>
   </Layout>
 )
 

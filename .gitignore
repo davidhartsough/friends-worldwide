@@ -1,3 +1,8 @@
+# Custom
+src/secrets.js
+src/users.json
+slack/
+
 # Logs
 logs
 *.log

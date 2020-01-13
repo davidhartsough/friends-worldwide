@@ -1,0 +1,1980 @@
+{
+  "channels": [
+    {
+      "id": "CC5C1F83B",
+      "name": "general",
+      "created": 1533840468,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": true,
+      "members": [
+        "UC59BFPLG",
+        "UC59F7VEU",
+        "UC5AP10BA",
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC5EFPW4R",
+        "UC5FC3PJM",
+        "UC5Q8JGHJ",
+        "UC5RGAPBM",
+        "UC5SQEA1Z",
+        "UC5TH4BJQ",
+        "UC5UJS284",
+        "UC612H0M8",
+        "UC62BGD0Q",
+        "UC65ECT9A",
+        "UC6KE17T7",
+        "UC724NZNK",
+        "UC7AYTTPE",
+        "UC7BPJE4W",
+        "UC7BRBU4W",
+        "UC8Q1QXTL",
+        "UC8U3CT6X",
+        "UC945MEP4",
+        "UC9675ZEZ",
+        "UC99446V9",
+        "UC9CTPE9W",
+        "UC9HVF6F7",
+        "UCA5KAB1T",
+        "UCACZ5ABF",
+        "UCBHTR4EA",
+        "UCV56KY6P",
+        "UCVN2BSBX",
+        "UCVP6PH97",
+        "UCWFTD0FK",
+        "UD0TP7CNM",
+        "UDATBHUDN",
+        "UDSPWGHBM",
+        "UDT2ERGUC",
+        "UDUDL4XJA",
+        "UDW781GR2",
+        "UDWA7DX8X",
+        "UDYHRBQ73",
+        "UEQGGTYLD",
+        "UFA8GBL3H",
+        "UFAB34E3V",
+        "UFPGXTV19",
+        "UG288B0P3",
+        "UG348K361",
+        "UG4UXB4Q4",
+        "UGHECJV1Q",
+        "UGLFNU8P7",
+        "UGM5FF06T",
+        "UGMH7RLJ0",
+        "UGPSY6N3D",
+        "UH5G5C37C",
+        "UHW0R2VPH",
+        "UJB5Z11DY",
+        "UJEQL07NE",
+        "UJG8UN98S",
+        "UJGJQP0SF",
+        "UJJ781ASH",
+        "UJU096QUX",
+        "UK8BVGCTB",
+        "UKB8QM4NM",
+        "UKE60HPQT",
+        "UKE60HQ11",
+        "UKR3W31JQ",
+        "UKRRYAQSC",
+        "UKRS3NDUM",
+        "UKY1316RX",
+        "UL871CVNW",
+        "ULLUUNYLA",
+        "UM307R3GE",
+        "UM41TMD1C",
+        "UMD9SDCA0",
+        "UMQJ2EW4R",
+        "UMX8A54JX",
+        "UMYBT74JZ",
+        "UN0GBGN9L",
+        "UN2DBDBHD",
+        "UN90U5HB2",
+        "UP02YHR8T",
+        "UP54BCKC1",
+        "UPAJ83A1W",
+        "UPSFR7FEH",
+        "UPUBA60LX",
+        "UQ8CYQGAW",
+        "UQXL5ERQA",
+        "UQZ601EKY",
+        "UR75KR31C",
+        "URDFHJ3U0",
+        "US7BJ8F2T"
+      ],
+      "topic": {
+        "value": "everybody",
+        "creator": "UC5C1F001",
+        "last_set": 1533845683
+      },
+      "purpose": {
+        "value": "This channel is for everybody. All members are in this channel.",
+        "creator": "UC5C1F001",
+        "last_set": 1533845718
+      }
+    },
+    {
+      "id": "CC5PD7TA8",
+      "name": "bittercreek-babes",
+      "created": 1533846480,
+      "creator": "UC5E3CFSM",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC5FC3PJM",
+        "UC5Q8JGHJ",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC65ECT9A",
+        "UC6KE17T7",
+        "UC7AYTTPE",
+        "UC7BRBU4W",
+        "UC9675ZEZ",
+        "UC99446V9",
+        "UCACZ5ABF",
+        "UCBHTR4EA",
+        "UDATBHUDN",
+        "UFA8GBL3H",
+        "UFPGXTV19",
+        "UG288B0P3",
+        "UGHECJV1Q",
+        "UGLFNU8P7",
+        "UGM5FF06T",
+        "UH5G5C37C",
+        "UJJ781ASH",
+        "UKRRYAQSC",
+        "UMD9SDCA0"
+      ],
+      "topic": {
+        "value": "Cereal ",
+        "creator": "UFA8GBL3H",
+        "last_set": 1548970153
+      },
+      "purpose": {
+        "value": "save money, eat cereal, get a brother for your daughter",
+        "creator": "UC5C1F001",
+        "last_set": 1548969848
+      }
+    },
+    {
+      "id": "CC85HHRND",
+      "name": "boise",
+      "created": 1534291081,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5Q8JGHJ",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC62BGD0Q",
+        "UC99446V9",
+        "UDATBHUDN",
+        "UGM5FF06T",
+        "UJG8UN98S",
+        "UJJ781ASH",
+        "UMD9SDCA0",
+        "URDFHJ3U0"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Boise, Idaho",
+        "creator": "UC5C1F001",
+        "last_set": 1534291082
+      }
+    },
+    {
+      "id": "CC8MN07PT",
+      "name": "travel",
+      "created": 1534361350,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5FC3PJM",
+        "UC62BGD0Q",
+        "UC99446V9",
+        "UCVN2BSBX",
+        "UJG8UN98S"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      }
+    },
+    {
+      "id": "CC8PMQ3ED",
+      "name": "music",
+      "created": 1534367183,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC5Q8JGHJ",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC612H0M8",
+        "UC62BGD0Q",
+        "UC6KE17T7",
+        "UC7BRBU4W",
+        "UC9675ZEZ",
+        "UC99446V9",
+        "UC9HVF6F7",
+        "UCBHTR4EA",
+        "UCVN2BSBX",
+        "UG4UXB4Q4",
+        "UH5G5C37C",
+        "UHW0R2VPH",
+        "UJJ781ASH",
+        "UK8BVGCTB",
+        "UMD9SDCA0",
+        "UMQJ2EW4R",
+        "UMX8A54JX",
+        "URDFHJ3U0"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "música / la musique / ΜΟΥΣΙΚΗ / 音楽 / Музыка",
+        "creator": "UC5C1F001",
+        "last_set": 1534367184
+      }
+    },
+    {
+      "id": "CCAJGKKHC",
+      "name": "memes",
+      "created": 1534361262,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC5Q8JGHJ",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC62BGD0Q",
+        "UC9675ZEZ",
+        "UC99446V9",
+        "UC9HVF6F7",
+        "UCBHTR4EA",
+        "UDATBHUDN",
+        "UFPGXTV19",
+        "UG4UXB4Q4",
+        "UGM5FF06T",
+        "UHW0R2VPH",
+        "UJJ781ASH",
+        "UK8BVGCTB",
+        "UKE60HQ11",
+        "UMX8A54JX"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "MEMES",
+        "creator": "UC5C1F001",
+        "last_set": 1534361263
+      }
+    },
+    {
+      "id": "CCBQSU66Q",
+      "name": "tsheets",
+      "created": 1534811417,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC59F7VEU",
+        "UC5AP10BA",
+        "UC5C1F001",
+        "UC5EFPW4R",
+        "UC5Q8JGHJ",
+        "UC5RGAPBM",
+        "UC5SQEA1Z",
+        "UC5TH4BJQ",
+        "UC5UJS284",
+        "UC612H0M8",
+        "UC62BGD0Q",
+        "UC65ECT9A",
+        "UC6KE17T7",
+        "UC724NZNK",
+        "UC7AYTTPE",
+        "UC7BPJE4W",
+        "UC7BRBU4W",
+        "UC8Q1QXTL",
+        "UC8U3CT6X",
+        "UC9675ZEZ",
+        "UC99446V9",
+        "UC9CTPE9W",
+        "UCA5KAB1T",
+        "UCACZ5ABF",
+        "UCBHTR4EA",
+        "UCWFTD0FK",
+        "UFAB34E3V",
+        "UGMH7RLJ0",
+        "UJB5Z11DY",
+        "UJG8UN98S",
+        "UK8BVGCTB",
+        "UKRRYAQSC",
+        "UMQJ2EW4R",
+        "UQXL5ERQA",
+        "URDFHJ3U0"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "tsheets peeps and sheeps",
+        "creator": "UC5C1F001",
+        "last_set": 1534811418
+      }
+    },
+    {
+      "id": "CCE5N3JJC",
+      "name": "mech",
+      "created": 1535133410,
+      "creator": "UCA5KAB1T",
+      "is_archived": false,
+      "is_general": false,
+      "members": ["UC62BGD0Q", "UC6KE17T7", "UC99446V9", "UCA5KAB1T"],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      }
+    },
+    {
+      "id": "CCERE1GN6",
+      "name": "cats-worldwide",
+      "created": 1535129354,
+      "creator": "UC5UJS284",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC62BGD0Q",
+        "UC9675ZEZ",
+        "UDATBHUDN",
+        "UFPGXTV19",
+        "UGM5FF06T",
+        "UHW0R2VPH",
+        "UK8BVGCTB",
+        "UP02YHR8T",
+        "UP54BCKC1",
+        "URDFHJ3U0"
+      ],
+      "topic": {
+        "value": "Cats. Rules:\n1) Post a photo, video, or gif of cat.\n2) react only with the emojis :clap: :thanks: .\n3) that's it. no deviations. enjoy.",
+        "creator": "UC5UJS284",
+        "last_set": 1540248699
+      },
+      "purpose": {
+        "value": "ฅ^◕ﻌ◕^ฅ",
+        "creator": "UC5C1F001",
+        "last_set": 1560629793
+      }
+    },
+    {
+      "id": "CCUR6R9R6",
+      "name": "van-life",
+      "created": 1537249957,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC62BGD0Q",
+        "UC6KE17T7",
+        "UC9675ZEZ",
+        "UCVN2BSBX",
+        "UCVP6PH97"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "living in a van",
+        "creator": "UC5C1F001",
+        "last_set": 1537249957
+      }
+    },
+    {
+      "id": "CD030HUKG",
+      "name": "space",
+      "created": 1537558188,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC62BGD0Q",
+        "UCVN2BSBX",
+        "UCVP6PH97",
+        "UN0GBGN9L"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Sometimes this whole planet Earth thing gets really boring, so what about space? What's all this space thing about? How's space doing?",
+        "creator": "UC5C1F001",
+        "last_set": 1537558189
+      }
+    },
+    {
+      "id": "CD67VCYQ0",
+      "name": "quizzes",
+      "created": 1538639429,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5FC3PJM",
+        "UC5UJS284",
+        "UC62BGD0Q",
+        "UC6KE17T7",
+        "UC724NZNK",
+        "UC7BRBU4W",
+        "UC9675ZEZ",
+        "UCACZ5ABF",
+        "UCBHTR4EA",
+        "UCVP6PH97",
+        "UDATBHUDN",
+        "UGM5FF06T"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Create and take quizzes",
+        "creator": "UC5C1F001",
+        "last_set": 1538639429
+      }
+    },
+    {
+      "id": "CDPEZTUAU",
+      "name": "codevember",
+      "created": 1540758299,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5FC3PJM",
+        "UC62BGD0Q",
+        "UC6KE17T7",
+        "UC7BRBU4W",
+        "UC8U3CT6X",
+        "UC9675ZEZ",
+        "UC99446V9",
+        "UC9HVF6F7",
+        "UCACZ5ABF",
+        "UCVN2BSBX",
+        "UDATBHUDN",
+        "UDSPWGHBM",
+        "UDT2ERGUC",
+        "UDUDL4XJA",
+        "UDW781GR2",
+        "UDWA7DX8X",
+        "UDYHRBQ73",
+        "UEQGGTYLD",
+        "UFA8GBL3H",
+        "UFAB34E3V",
+        "UFPGXTV19",
+        "UG288B0P3",
+        "UG348K361",
+        "UG4UXB4Q4",
+        "UGHECJV1Q",
+        "UGLFNU8P7",
+        "UGPSY6N3D",
+        "UH5G5C37C"
+      ],
+      "topic": {
+        "value": "Let's talk about code, baby (sing it) Let's talk about you and me (sing it, sing it)",
+        "creator": "UC5C1F001",
+        "last_set": 1541009528
+      },
+      "purpose": {
+        "value": "Talk about CodeVember projects, people, awards, and pastries. JUKEBOX #Codevember2018",
+        "creator": "UC8U3CT6X",
+        "last_set": 1541036301
+      }
+    },
+    {
+      "id": "CDZB2L412",
+      "name": "bikinibodies2019",
+      "created": 1541736719,
+      "creator": "UC6KE17T7",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5SQEA1Z",
+        "UC62BGD0Q",
+        "UC6KE17T7",
+        "UC99446V9"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "To really be winners about our bodies. I mean, really love yourself. Yeah.",
+        "creator": "UC6KE17T7",
+        "last_set": 1541736719
+      }
+    },
+    {
+      "id": "CF7QQRC4D",
+      "name": "big-plans-big-people",
+      "created": 1546806755,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": ["UC5C1F001", "UC7BRBU4W", "UCBHTR4EA", "UG288B0P3"],
+      "topic": {
+        "value": "2019: Big Plans, Big People",
+        "creator": "UC5C1F001",
+        "last_set": 1546806801
+      },
+      "purpose": {
+        "value": "2019: Big Plans, Big People",
+        "creator": "UC5C1F001",
+        "last_set": 1546806802
+      }
+    },
+    {
+      "id": "CFKDJ5B1P",
+      "name": "ssshhhree",
+      "created": 1548176629,
+      "creator": "UC5UJS284",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC7BRBU4W",
+        "UCBHTR4EA",
+        "UG288B0P3"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "A place to whisper without Shree (or with Shree, as long as he whispers)",
+        "creator": "UC5UJS284",
+        "last_set": 1548176629
+      }
+    },
+    {
+      "id": "CFU0QB9AA",
+      "name": "fire",
+      "created": 1548798304,
+      "creator": "UC5SQEA1Z",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC59F7VEU",
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC5EFPW4R",
+        "UC5FC3PJM",
+        "UC5Q8JGHJ",
+        "UC5RGAPBM",
+        "UC5SQEA1Z",
+        "UC5TH4BJQ",
+        "UC5UJS284",
+        "UC612H0M8",
+        "UC6KE17T7",
+        "UC724NZNK",
+        "UC7AYTTPE",
+        "UC7BPJE4W",
+        "UC7BRBU4W",
+        "UC8Q1QXTL",
+        "UC8U3CT6X",
+        "UC99446V9",
+        "UCA5KAB1T",
+        "UCACZ5ABF",
+        "UCBHTR4EA",
+        "UDATBHUDN",
+        "UDT2ERGUC",
+        "UDUDL4XJA",
+        "UDW781GR2",
+        "UFA8GBL3H",
+        "UFAB34E3V",
+        "UJB5Z11DY",
+        "UJG8UN98S",
+        "UKRRYAQSC",
+        "UN90U5HB2"
+      ],
+      "pins": [
+        {
+          "id": "1548798484.006900",
+          "type": "C",
+          "created": 1548798494,
+          "user": "UC5SQEA1Z",
+          "owner": "UC5SQEA1Z"
+        }
+      ],
+      "topic": {
+        "value": "FIRE stands for Financial Independence Retire Early, lets share any good financial decisions we need to be making in order to take control of the finances in our life and retire when we decide we are ready.",
+        "creator": "UC5SQEA1Z",
+        "last_set": 1548798362
+      },
+      "purpose": {
+        "value": "Financial Independence Retire Early",
+        "creator": "UC5SQEA1Z",
+        "last_set": 1548798305
+      }
+    },
+    {
+      "id": "CGELKBY0L",
+      "name": "beerbuddies",
+      "created": 1550874408,
+      "creator": "UC5E3CFSM",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC7AYTTPE",
+        "UC7BRBU4W",
+        "UCBHTR4EA"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": ":beers:",
+        "creator": "UC5E3CFSM",
+        "last_set": 1550874408
+      }
+    },
+    {
+      "id": "CGL6SVC5N",
+      "name": "mathruinslives",
+      "created": 1551465605,
+      "creator": "UGM5FF06T",
+      "is_archived": false,
+      "is_general": false,
+      "members": ["UDATBHUDN", "UGMH7RLJ0"],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Community of help for everyone!",
+        "creator": "UGM5FF06T",
+        "last_set": 1551465606
+      }
+    },
+    {
+      "id": "CGNTQUW9Y",
+      "name": "crm",
+      "created": 1551737741,
+      "creator": "UC5SQEA1Z",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5SQEA1Z",
+        "UC6KE17T7",
+        "UFPGXTV19",
+        "UG4UXB4Q4"
+      ],
+      "pins": [
+        {
+          "id": "1551820944.016700",
+          "type": "C",
+          "created": 1551820950,
+          "user": "UC6KE17T7",
+          "owner": "UC6KE17T7"
+        }
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Customer Relationship Masters!",
+        "creator": "UC5SQEA1Z",
+        "last_set": 1551737741
+      }
+    },
+    {
+      "id": "CGPD7J9AA",
+      "name": "gourmando69",
+      "created": 1551669483,
+      "creator": "UCBHTR4EA",
+      "is_archived": true,
+      "is_general": false,
+      "members": [],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Gourmando69 here! I will be reviewing and posting on some way wicked foods. Watch out for videos and pics. see you cool peeps soon!",
+        "creator": "UCBHTR4EA",
+        "last_set": 1551669484
+      }
+    },
+    {
+      "id": "CGR92AZ1C",
+      "name": "treefort",
+      "created": 1551811597,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5UJS284",
+        "UC612H0M8",
+        "UC62BGD0Q",
+        "UC6KE17T7",
+        "UCACZ5ABF",
+        "UDATBHUDN",
+        "UJJ781ASH",
+        "UMD9SDCA0",
+        "UMQJ2EW4R"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Terfreot",
+        "creator": "UC5C1F001",
+        "last_set": 1551811597
+      }
+    },
+    {
+      "id": "CGTJ5DD4N",
+      "name": "psychology",
+      "created": 1551982994,
+      "creator": "UGMH7RLJ0",
+      "is_archived": false,
+      "is_general": false,
+      "members": ["UC5C1F001", "UC7AYTTPE", "UGMH7RLJ0", "UMQJ2EW4R"],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": ":brain:",
+        "creator": "UGMH7RLJ0",
+        "last_set": 1551982995
+      }
+    },
+    {
+      "id": "CGV0G47M2",
+      "name": "ted-talks",
+      "created": 1552326147,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC5FC3PJM",
+        "UC5Q8JGHJ",
+        "UC5RGAPBM",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC62BGD0Q",
+        "UC6KE17T7",
+        "UC7AYTTPE",
+        "UC7BRBU4W",
+        "UC8U3CT6X",
+        "UC9675ZEZ",
+        "UC99446V9",
+        "UC9HVF6F7",
+        "UCBHTR4EA",
+        "UCVN2BSBX",
+        "UCVP6PH97",
+        "UGMH7RLJ0",
+        "UJB5Z11DY",
+        "UJG8UN98S",
+        "UL871CVNW",
+        "UMQJ2EW4R"
+      ],
+      "pins": [
+        {
+          "id": "1552326218.001600",
+          "type": "C",
+          "created": 1552327077,
+          "user": "UC5SQEA1Z",
+          "owner": "UC5C1F001"
+        }
+      ],
+      "topic": {
+        "value": "",
+        "creator": "UC5C1F001",
+        "last_set": 1564332690
+      },
+      "purpose": {
+        "value": "Share your favorite TED Talks",
+        "creator": "UC5C1F001",
+        "last_set": 1564332690
+      }
+    },
+    {
+      "id": "CH0JPHF1P",
+      "name": "interesting-words",
+      "created": 1553545984,
+      "creator": "UC5UJS284",
+      "is_archived": true,
+      "is_general": false,
+      "members": [],
+      "topic": {
+        "value": "Post a word, thread examples",
+        "creator": "UC5UJS284",
+        "last_set": 1553554467
+      },
+      "purpose": {
+        "value": "share some cool words - expand your vocabulary",
+        "creator": "UC5UJS284",
+        "last_set": 1553545985
+      }
+    },
+    {
+      "id": "CH41R09EV",
+      "name": "top_secret_secrets",
+      "created": 1553730990,
+      "creator": "UC7BRBU4W",
+      "is_archived": true,
+      "is_general": false,
+      "members": [],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Secretive secrets secreted @here.",
+        "creator": "UC7BRBU4W",
+        "last_set": 1553730991
+      }
+    },
+    {
+      "id": "CH9HXQ0UV",
+      "name": "plotting",
+      "created": 1553542728,
+      "creator": "UC5UJS284",
+      "is_archived": true,
+      "is_general": false,
+      "members": [],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "world-building, dreams, based on true events… throw your story ideas here!",
+        "creator": "UC5UJS284",
+        "last_set": 1553542729
+      }
+    },
+    {
+      "id": "CHAE6KR7E",
+      "name": "elder-scrolls",
+      "created": 1553616508,
+      "creator": "UC5UJS284",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5Q8JGHJ",
+        "UC5UJS284",
+        "UDATBHUDN",
+        "UGM5FF06T",
+        "UJJ781ASH",
+        "UKE60HQ11",
+        "UKRRYAQSC"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "A place to nerd out about the Elder Scrolls Universe and all it’s associated games.",
+        "creator": "UC5UJS284",
+        "last_set": 1553616509
+      }
+    },
+    {
+      "id": "CHJEBLPJM",
+      "name": "business",
+      "created": 1554843414,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC5FC3PJM",
+        "UC5Q8JGHJ",
+        "UC5RGAPBM",
+        "UC612H0M8",
+        "UC6KE17T7",
+        "UC7AYTTPE",
+        "UC7BRBU4W",
+        "UC9675ZEZ",
+        "UC99446V9",
+        "UC9HVF6F7",
+        "UCACZ5ABF",
+        "UCBHTR4EA",
+        "UCVN2BSBX",
+        "UCVP6PH97",
+        "UCWFTD0FK",
+        "UGMH7RLJ0",
+        "UJB5Z11DY",
+        "UKRRYAQSC"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "strictly business only",
+        "creator": "UC5C1F001",
+        "last_set": 1554843414
+      }
+    },
+    {
+      "id": "CHMV5QDGA",
+      "name": "dreams",
+      "created": 1555520099,
+      "creator": "UC7AYTTPE",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC7AYTTPE",
+        "UKRRYAQSC"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "share and discuss the crazy dreams we have",
+        "creator": "UC7AYTTPE",
+        "last_set": 1555520100
+      }
+    },
+    {
+      "id": "CHNMY0MF0",
+      "name": "natural-inspiration",
+      "created": 1554319006,
+      "creator": "UC5UJS284",
+      "is_archived": true,
+      "is_general": false,
+      "members": [],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "share inspiration for natural eating, living, cleaning, beauty, etc! :seedling:",
+        "creator": "UC5UJS284",
+        "last_set": 1554319007
+      }
+    },
+    {
+      "id": "CHTBST7M3",
+      "name": "givethanks",
+      "created": 1554827203,
+      "creator": "UC6KE17T7",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC5FC3PJM",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC62BGD0Q",
+        "UC6KE17T7",
+        "UC724NZNK",
+        "UC7AYTTPE",
+        "UC7BRBU4W",
+        "UC8U3CT6X",
+        "UC99446V9",
+        "UCA5KAB1T",
+        "UCACZ5ABF",
+        "UCBHTR4EA",
+        "UCVN2BSBX",
+        "UCVP6PH97",
+        "UDATBHUDN",
+        "UDBAH3NP6",
+        "UDUDL4XJA",
+        "UDW781GR2",
+        "UFPGXTV19",
+        "UG288B0P3",
+        "UG4UXB4Q4",
+        "UGM5FF06T",
+        "UGMH7RLJ0",
+        "UGPSY6N3D",
+        "UH5G5C37C"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "To say thank you and show gratitude",
+        "creator": "UC6KE17T7",
+        "last_set": 1554827203
+      }
+    },
+    {
+      "id": "CHY7MESH0",
+      "name": "hiking-backpacking",
+      "created": 1556564225,
+      "creator": "UDATBHUDN",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5Q8JGHJ",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC6KE17T7",
+        "UC7AYTTPE",
+        "UC99446V9",
+        "UDATBHUDN",
+        "UGHECJV1Q",
+        "UGM5FF06T",
+        "UJJ781ASH",
+        "UK8BVGCTB",
+        "UKRRYAQSC",
+        "UKRS3NDUM",
+        "UMD9SDCA0"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "A place to plan and discuss difficult walks through the mountains.",
+        "creator": "UDATBHUDN",
+        "last_set": 1556564226
+      }
+    },
+    {
+      "id": "CJ17ZC26M",
+      "name": "avengers-end-game",
+      "created": 1556287283,
+      "creator": "UC5E3CFSM",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5E3CFSM",
+        "UC7BRBU4W",
+        "UDATBHUDN",
+        "UGM5FF06T"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      }
+    },
+    {
+      "id": "CJ6HNV29Z",
+      "name": "design",
+      "created": 1557341021,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC62BGD0Q",
+        "UC6KE17T7",
+        "UC7AYTTPE",
+        "UC8U3CT6X",
+        "UDATBHUDN",
+        "UHW0R2VPH",
+        "UJB5Z11DY"
+      ],
+      "pins": [
+        {
+          "id": "1558019323.002300",
+          "type": "C",
+          "created": 1558019442,
+          "user": "UC6KE17T7",
+          "owner": "UC5UJS284"
+        }
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      }
+    },
+    {
+      "id": "CJGCTNAQM",
+      "name": "workwork",
+      "created": 1557236513,
+      "creator": "UC5SQEA1Z",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5Q8JGHJ",
+        "UC5SQEA1Z",
+        "UC6KE17T7",
+        "UC724NZNK",
+        "UC99446V9",
+        "UCACZ5ABF",
+        "UDATBHUDN",
+        "UDUDL4XJA",
+        "UJB5Z11DY",
+        "UJG8UN98S",
+        "UKRRYAQSC"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Lets post open req at all our different jobs or information to help everyone here grow their careers!!!",
+        "creator": "UC5SQEA1Z",
+        "last_set": 1557236514
+      }
+    },
+    {
+      "id": "CJSSW8TFY",
+      "name": "ihatehoas",
+      "created": 1557948225,
+      "creator": "UC5SQEA1Z",
+      "is_archived": false,
+      "is_general": false,
+      "members": ["UC5C1F001", "UC5SQEA1Z", "UC5UJS284"],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Somewhere that Jesse can vent about how much he hates HOA's",
+        "creator": "UC5SQEA1Z",
+        "last_set": 1557948226
+      }
+    },
+    {
+      "id": "CK4BZCC3U",
+      "name": "house-hunting",
+      "created": 1560269717,
+      "creator": "UC5UJS284",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5Q8JGHJ",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC6KE17T7",
+        "UC7AYTTPE",
+        "UC99446V9",
+        "UDATBHUDN",
+        "UGM5FF06T",
+        "UJG8UN98S",
+        "UJJ781ASH",
+        "UK8BVGCTB",
+        "ULLUUNYLA",
+        "URDFHJ3U0"
+      ],
+      "pins": [
+        {
+          "id": "1576526257.009200",
+          "type": "C",
+          "created": 1576531909,
+          "user": "UC5UJS284",
+          "owner": "UC5Q8JGHJ"
+        }
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "lauren trolls for houses and shares them for people who want to move. other people can also post houses here.",
+        "creator": "UC5UJS284",
+        "last_set": 1560269717
+      }
+    },
+    {
+      "id": "CKFFPTMTN",
+      "name": "videos",
+      "created": 1560278861,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC5FC3PJM",
+        "UC5Q8JGHJ",
+        "UC5RGAPBM",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC612H0M8",
+        "UC6KE17T7",
+        "UC724NZNK",
+        "UC7AYTTPE",
+        "UC7BPJE4W",
+        "UC7BRBU4W",
+        "UC8Q1QXTL",
+        "UC9675ZEZ",
+        "UC99446V9",
+        "UC9HVF6F7",
+        "UCACZ5ABF",
+        "UCBHTR4EA",
+        "UCVN2BSBX",
+        "UCVP6PH97",
+        "UDATBHUDN",
+        "UDUDL4XJA",
+        "UFA8GBL3H",
+        "UFPGXTV19",
+        "UG288B0P3",
+        "UG348K361",
+        "UGM5FF06T",
+        "UGMH7RLJ0",
+        "UH5G5C37C",
+        "UJB5Z11DY",
+        "UJG8UN98S",
+        "UKE60HQ11",
+        "UMQJ2EW4R",
+        "UN90U5HB2"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "\\/IDE0S - share 'em",
+        "creator": "UC5C1F001",
+        "last_set": 1560278862
+      }
+    },
+    {
+      "id": "CKHC6C4AH",
+      "name": "controversy",
+      "created": 1560371712,
+      "creator": "UC5SQEA1Z",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5SQEA1Z",
+        "UC6KE17T7",
+        "UC99446V9",
+        "UDATBHUDN",
+        "UFPGXTV19",
+        "UKRRYAQSC"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "To have discussions about topics that generally have a lot of disagreement or passion",
+        "creator": "UC5SQEA1Z",
+        "last_set": 1560371713
+      }
+    },
+    {
+      "id": "CKK0T7RRT",
+      "name": "the-club",
+      "created": 1560487274,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": ["UC5C1F001"],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "THE CLUB",
+        "creator": "UC5C1F001",
+        "last_set": 1560487275
+      }
+    },
+    {
+      "id": "CKW4YMB3R",
+      "name": "wizards-unite",
+      "created": 1561382329,
+      "creator": "UC5SQEA1Z",
+      "is_archived": true,
+      "is_general": false,
+      "members": [],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      }
+    },
+    {
+      "id": "CL8THU0CT",
+      "name": "but-what-does-it-mean",
+      "created": 1563561622,
+      "creator": "UC5UJS284",
+      "is_archived": true,
+      "is_general": false,
+      "members": [],
+      "topic": {
+        "value": "“Quote.” — Emily",
+        "creator": "UC5UJS284",
+        "last_set": 1563561758
+      },
+      "purpose": {
+        "value": "“quote” - Emily",
+        "creator": "UC5UJS284",
+        "last_set": 1563561622
+      }
+    },
+    {
+      "id": "CL91C85GT",
+      "name": "hmm-that-looks-wrong",
+      "created": 1563568023,
+      "creator": "UJJ781ASH",
+      "is_archived": true,
+      "is_general": false,
+      "members": [],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "people ~Lauren~ can't spell",
+        "creator": "UJJ781ASH",
+        "last_set": 1563568024
+      }
+    },
+    {
+      "id": "CLSSNDFA8",
+      "name": "o_canada",
+      "created": 1564158873,
+      "creator": "UJJ781ASH",
+      "is_archived": true,
+      "is_general": false,
+      "members": [],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Photo dump for my canada trip since people have asked for photos",
+        "creator": "UJJ781ASH",
+        "last_set": 1564158873
+      }
+    },
+    {
+      "id": "CLUJXBYJJ",
+      "name": "kpop",
+      "created": 1564093200,
+      "creator": "UC5UJS284",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UCBHTR4EA",
+        "UHW0R2VPH",
+        "UJJ781ASH"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "for the kpoppers of the group so our music channel isn’t just kpop from here on",
+        "creator": "UC5UJS284",
+        "last_set": 1564093201
+      }
+    },
+    {
+      "id": "CM9RWCVPA",
+      "name": "user-suggestions",
+      "created": 1565628808,
+      "creator": "UC5SQEA1Z",
+      "is_archived": false,
+      "is_general": false,
+      "members": ["UC5SQEA1Z", "UC5UJS284", "UG4UXB4Q4"],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "A place to post the best of the suggestions by either customer or coworkers looking for help or input.",
+        "creator": "UC5SQEA1Z",
+        "last_set": 1565628833
+      }
+    },
+    {
+      "id": "CMG80Q146",
+      "name": "all-hail-the-glow-cloud",
+      "created": 1565903100,
+      "creator": "UC5UJS284",
+      "is_archived": false,
+      "is_general": false,
+      "members": ["UC5SQEA1Z", "UC5UJS284"],
+      "topic": {
+        "value": "Welcome to Night Vale",
+        "creator": "UC5UJS284",
+        "last_set": 1565974036
+      },
+      "purpose": {
+        "value": "Here, we eat invisible pie, ~avoid the dog park~, and await updates from Night Vale’s Secret Police",
+        "creator": "UC5UJS284",
+        "last_set": 1565903771
+      }
+    },
+    {
+      "id": "CMR6YEDLP",
+      "name": "amazing-amazon-ad-photos",
+      "created": 1566695537,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5Q8JGHJ",
+        "UC5UJS284",
+        "UC62BGD0Q",
+        "UC6KE17T7",
+        "UC7AYTTPE",
+        "UC7BRBU4W",
+        "UC9675ZEZ",
+        "UC9HVF6F7",
+        "UCBHTR4EA",
+        "UCVN2BSBX",
+        "UGM5FF06T",
+        "UJG8UN98S",
+        "UMQJ2EW4R",
+        "UMX8A54JX"
+      ],
+      "topic": {
+        "value": "Who photoshops all these Amazon product photos??",
+        "creator": "UC5C1F001",
+        "last_set": 1566695627
+      },
+      "purpose": {
+        "value": "just paste some great images plz",
+        "creator": "UC5C1F001",
+        "last_set": 1566695538
+      }
+    },
+    {
+      "id": "CMYL6RFK2",
+      "name": "introductions",
+      "created": 1567501289,
+      "creator": "UC5C1F001",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC59BFPLG",
+        "UC59F7VEU",
+        "UC5AP10BA",
+        "UC5C1F001",
+        "UC5E3CFSM",
+        "UC5EFPW4R",
+        "UC5FC3PJM",
+        "UC5Q8JGHJ",
+        "UC5RGAPBM",
+        "UC5SQEA1Z",
+        "UC5TH4BJQ",
+        "UC5UJS284",
+        "UC612H0M8",
+        "UC62BGD0Q",
+        "UC65ECT9A",
+        "UC6KE17T7",
+        "UC724NZNK",
+        "UC7AYTTPE",
+        "UC7BPJE4W",
+        "UC7BRBU4W",
+        "UC8Q1QXTL",
+        "UC8U3CT6X",
+        "UC945MEP4",
+        "UC9675ZEZ",
+        "UC99446V9",
+        "UC9CTPE9W",
+        "UC9HVF6F7",
+        "UCA5KAB1T",
+        "UCACZ5ABF",
+        "UCBHTR4EA",
+        "UCV56KY6P",
+        "UCVN2BSBX",
+        "UCVP6PH97",
+        "UCWFTD0FK",
+        "UD0TP7CNM",
+        "UDATBHUDN",
+        "UDSPWGHBM",
+        "UDT2ERGUC",
+        "UDUDL4XJA",
+        "UDW781GR2",
+        "UDWA7DX8X",
+        "UDYHRBQ73",
+        "UEQGGTYLD",
+        "UFA8GBL3H",
+        "UFAB34E3V",
+        "UFPGXTV19",
+        "UG288B0P3",
+        "UG348K361",
+        "UG4UXB4Q4",
+        "UGHECJV1Q",
+        "UGLFNU8P7",
+        "UGM5FF06T",
+        "UGMH7RLJ0",
+        "UGPSY6N3D",
+        "UH5G5C37C",
+        "UHW0R2VPH",
+        "UJB5Z11DY",
+        "UJEQL07NE",
+        "UJG8UN98S",
+        "UJGJQP0SF",
+        "UJU096QUX",
+        "UK8BVGCTB",
+        "UKB8QM4NM",
+        "UKE60HPQT",
+        "UKE60HQ11",
+        "UKR3W31JQ",
+        "UKRRYAQSC",
+        "UKRS3NDUM",
+        "UKY1316RX",
+        "UL871CVNW",
+        "ULLUUNYLA",
+        "UM307R3GE",
+        "UM41TMD1C",
+        "UMD9SDCA0",
+        "UMQJ2EW4R",
+        "UMX8A54JX",
+        "UMYBT74JZ",
+        "UN0GBGN9L",
+        "UN2DBDBHD",
+        "UN90U5HB2",
+        "UP02YHR8T",
+        "UP54BCKC1",
+        "UPAJ83A1W",
+        "UPSFR7FEH",
+        "UPUBA60LX",
+        "UQ8CYQGAW",
+        "UQXL5ERQA",
+        "UQZ601EKY",
+        "UR75KR31C",
+        "URDFHJ3U0",
+        "US7BJ8F2T"
+      ],
+      "pins": [
+        {
+          "id": "1567503261.001200",
+          "type": "C",
+          "created": 1567503269,
+          "user": "UC5C1F001",
+          "owner": "UC5C1F001"
+        },
+        {
+          "id": "1567533948.019700",
+          "type": "C",
+          "created": 1567534021,
+          "user": "UC5C1F001",
+          "owner": "UN0GBGN9L"
+        },
+        {
+          "id": "1567534142.024100",
+          "type": "C",
+          "created": 1567534181,
+          "user": "UC5C1F001",
+          "owner": "UKE60HQ11"
+        },
+        {
+          "id": "1567534232.026300",
+          "type": "C",
+          "created": 1567534236,
+          "user": "UC59BFPLG",
+          "owner": "UC59BFPLG"
+        },
+        {
+          "id": "1567534311.027000",
+          "type": "C",
+          "created": 1567534345,
+          "user": "UC5C1F001",
+          "owner": "UC8U3CT6X"
+        },
+        {
+          "id": "1567534446.028500",
+          "type": "C",
+          "created": 1567534451,
+          "user": "UG4UXB4Q4",
+          "owner": "UG4UXB4Q4"
+        },
+        {
+          "id": "1567534879.031700",
+          "type": "C",
+          "created": 1567534888,
+          "user": "UHW0R2VPH",
+          "owner": "UHW0R2VPH"
+        },
+        {
+          "id": "1567536589.039000",
+          "type": "C",
+          "created": 1567536601,
+          "user": "UC5C1F001",
+          "owner": "UM41TMD1C"
+        },
+        {
+          "id": "1567536720.041400",
+          "type": "C",
+          "created": 1567536734,
+          "user": "UC5C1F001",
+          "owner": "UJJ781ASH"
+        },
+        {
+          "id": "1567536825.045300",
+          "type": "C",
+          "created": 1567536830,
+          "user": "UJG8UN98S",
+          "owner": "UJG8UN98S"
+        },
+        {
+          "id": "1567536942.047000",
+          "type": "C",
+          "created": 1567536986,
+          "user": "UC5C1F001",
+          "owner": "UK8BVGCTB"
+        },
+        {
+          "id": "1567537205.047700",
+          "type": "C",
+          "created": 1567537381,
+          "user": "UC5C1F001",
+          "owner": "UC5UJS284"
+        },
+        {
+          "id": "1567543475.056200",
+          "type": "C",
+          "created": 1567545662,
+          "user": "UC724NZNK",
+          "owner": "UC724NZNK"
+        },
+        {
+          "id": "1567543692.057900",
+          "type": "C",
+          "created": 1567546269,
+          "user": "UC5C1F001",
+          "owner": "UC612H0M8"
+        },
+        {
+          "id": "1567544333.063600",
+          "type": "C",
+          "created": 1567544340,
+          "user": "UCBHTR4EA",
+          "owner": "UCBHTR4EA"
+        },
+        {
+          "id": "1567544802.067500",
+          "type": "C",
+          "created": 1567546341,
+          "user": "UC5C1F001",
+          "owner": "UMQJ2EW4R"
+        },
+        {
+          "id": "1567548038.082200",
+          "type": "C",
+          "created": 1567548121,
+          "user": "UC5C1F001",
+          "owner": "UL871CVNW"
+        },
+        {
+          "id": "1567557502.091600",
+          "type": "C",
+          "created": 1567557624,
+          "user": "UJB5Z11DY",
+          "owner": "UJB5Z11DY"
+        },
+        {
+          "id": "1567566488.099400",
+          "type": "C",
+          "created": 1567606407,
+          "user": "UC5SQEA1Z",
+          "owner": "UDATBHUDN"
+        },
+        {
+          "id": "1567567524.106000",
+          "type": "C",
+          "created": 1567606525,
+          "user": "UC5SQEA1Z",
+          "owner": "UGM5FF06T"
+        },
+        {
+          "id": "1567616676.118500",
+          "type": "C",
+          "created": 1567620071,
+          "user": "UC7BRBU4W",
+          "owner": "UC7BRBU4W"
+        },
+        {
+          "id": "1567618451.120400",
+          "type": "C",
+          "created": 1567620146,
+          "user": "UC5SQEA1Z",
+          "owner": "UC5SQEA1Z"
+        },
+        {
+          "id": "1567619577.121200",
+          "type": "C",
+          "created": 1567622742,
+          "user": "UC5C1F001",
+          "owner": "UC62BGD0Q"
+        },
+        {
+          "id": "1567626086.123600",
+          "type": "C",
+          "created": 1567636850,
+          "user": "UC5C1F001",
+          "owner": "UC9675ZEZ"
+        },
+        {
+          "id": "1567631048.125700",
+          "type": "C",
+          "created": 1567636912,
+          "user": "UC5C1F001",
+          "owner": "UC6KE17T7"
+        },
+        {
+          "id": "1567704080.002800",
+          "type": "C",
+          "created": 1567704994,
+          "user": "UC5SQEA1Z",
+          "owner": "UN2DBDBHD"
+        },
+        {
+          "id": "1567715410.006700",
+          "type": "C",
+          "created": 1567745221,
+          "user": "UMD9SDCA0",
+          "owner": "UC7AYTTPE"
+        },
+        {
+          "id": "1568047151.012600",
+          "type": "C",
+          "created": 1568047157,
+          "user": "UDUDL4XJA",
+          "owner": "UDUDL4XJA"
+        },
+        {
+          "id": "1568218536.014900",
+          "type": "C",
+          "created": 1568917379,
+          "user": "UC5SQEA1Z",
+          "owner": "UMX8A54JX"
+        },
+        {
+          "id": "1568382467.017900",
+          "type": "C",
+          "created": 1568917384,
+          "user": "UC5SQEA1Z",
+          "owner": "UC5FC3PJM"
+        },
+        {
+          "id": "1568916773.012200",
+          "type": "C",
+          "created": 1568917386,
+          "user": "UC5SQEA1Z",
+          "owner": "UC9HVF6F7"
+        },
+        {
+          "id": "1568926075.020100",
+          "type": "C",
+          "created": 1568928804,
+          "user": "UC5SQEA1Z",
+          "owner": "UCACZ5ABF"
+        }
+      ],
+      "topic": {
+        "value": "Introduce yourself! (Write a short bio about yourself so people can get to know you.)",
+        "creator": "UC5C1F001",
+        "last_set": 1567501597
+      },
+      "purpose": {
+        "value": "Introduce yourself! 1 post per person: a lil' bio. Only reply to intros with threads. Pin bios to the channel so they don't get hidden (by Slack's \"free\" version message limits), even tho they'll get cut off (at least we have a small portion of it)",
+        "creator": "UC5C1F001",
+        "last_set": 1567502987
+      }
+    },
+    {
+      "id": "CPS1W455J",
+      "name": "salt-lake-city",
+      "created": 1571961863,
+      "creator": "UC5SQEA1Z",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5SQEA1Z",
+        "UC6KE17T7",
+        "UG4UXB4Q4",
+        "UHW0R2VPH",
+        "UKE60HQ11",
+        "UN90U5HB2",
+        "UPSFR7FEH",
+        "UPUBA60LX"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Bringing together salt, and lakes, in one city.",
+        "creator": "UC5SQEA1Z",
+        "last_set": 1571961863
+      }
+    },
+    {
+      "id": "CQ4M5S667",
+      "name": "quotes",
+      "created": 1573611581,
+      "creator": "UGM5FF06T",
+      "is_archived": false,
+      "is_general": false,
+      "members": ["UGM5FF06T"],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Some odd -- some inspirational.",
+        "creator": "UGM5FF06T",
+        "last_set": 1573611582
+      }
+    },
+    {
+      "id": "CQ7MVE7ML",
+      "name": "cute-animals-and-baby-yoda",
+      "created": 1572925596,
+      "creator": "UDATBHUDN",
+      "is_archived": false,
+      "is_general": false,
+      "members": [
+        "UC5C1F001",
+        "UC5Q8JGHJ",
+        "UC5SQEA1Z",
+        "UC5UJS284",
+        "UC9675ZEZ",
+        "UDATBHUDN",
+        "UGM5FF06T",
+        "UHW0R2VPH",
+        "UK8BVGCTB",
+        "URDFHJ3U0"
+      ],
+      "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+      },
+      "purpose": {
+        "value": "Why isn’t this a channel yet??? Give me all the cute animals!",
+        "creator": "UDATBHUDN",
+        "last_set": 1572925597
+      }
+    }
+  ]
+}

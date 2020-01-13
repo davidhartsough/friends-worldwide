@@ -1,0 +1,26 @@
+.form {
+  max-width: 18rem;
+  margin: 0 auto;
+}
+label {
+  display: block;
+  margin: 0.75rem 0;
+}
+input {
+  display: block;
+  height: 2rem;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  outline: none;
+  width: 100%;
+  margin: 0.25rem 0;
+}
+.error {
+  color: #ff6666;
+}
+.info {
+  text-align: center;
+  margin: 2rem 0;
+}

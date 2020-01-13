@@ -1,0 +1,123 @@
+img {
+  display: block;
+  max-width: 100%;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  border-bottom: 1px solid #c8c8c8;
+  padding: 0;
+  background-color: #1f1f1f;
+}
+.fww-header {
+  max-width: 52rem;
+  margin: 0 auto;
+}
+.fww-link {
+  color: #e6e6e6;
+  font-size: 1.5rem;
+  font-weight: 300;
+  padding: 0.5rem 1rem;
+  display: block;
+  line-height: 1;
+}
+.channel-name {
+  margin-top: 3rem;
+  font-weight: 600;
+  font-size: 2rem;
+}
+.message {
+  margin: 1.5rem 0;
+  display: flex;
+}
+.m-body {
+  flex: 1 1 auto;
+}
+.m-text {
+  margin: 0;
+}
+.m-name {
+  line-height: 1;
+  margin: 0 0 0.25rem;
+  font-weight: 600;
+}
+.avatar {
+  height: 2.25rem;
+  line-height: 2.25rem;
+  width: 2.25rem;
+  flex: 0 0 2.25rem;
+  margin-right: 0.5rem;
+}
+.avatar img {
+  border-radius: 3px;
+  width: 100%;
+  height: 100%;
+}
+.file,
+.attachment {
+  margin-bottom: 0.5rem;
+}
+.file-title {
+  color: #bcbcbc;
+  font-size: 0.825rem;
+  font-weight: 600;
+}
+.attachment {
+  border-left: 0.25rem solid #353535;
+  padding-left: 0.75rem;
+}
+.iframe-c {
+  max-width: 100%;
+  overflow: hidden;
+}
+iframe,
+video {
+  max-width: 100%;
+}
+.content-loader {
+  padding: 1rem 0;
+}
+.load-btn {
+  max-width: 9rem;
+  margin: 0 auto;
+  font-size: 0.875rem;
+}
+details {
+  margin: 0.25rem 0;
+  border: 1px solid #c8c8c8;
+  border-radius: 0.5rem;
+  padding: 0.25rem 0.5rem;
+}
+summary {
+  color: #bcbcbc;
+  font-size: 0.825rem;
+  cursor: pointer;
+  outline: none;
+}
+.thread {
+  margin-top: 0.6rem;
+}
+.thread .message:first-child {
+  margin: 0.5rem 0 1.25rem 0;
+}
+.reactions {
+  display: flex;
+  flex-wrap: wrap;
+}
+.reaction {
+  background-color: #292929;
+  margin: 0 0.25rem 0.25rem 0;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  padding: 0 0.25rem;
+  font-size: 12px;
+}
+.count {
+  font-size: 11px;
+  color: #bcbcbc;
+  margin-left: 0.125rem;
+}
