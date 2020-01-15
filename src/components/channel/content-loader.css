@@ -1,0 +1,16 @@
+.iframe-c {
+  max-width: 100%;
+  overflow: hidden;
+}
+iframe,
+video {
+  max-width: 100%;
+}
+.content-loader {
+  padding: 1rem 0;
+}
+.load-btn {
+  max-width: 9rem;
+  margin: 0 auto;
+  font-size: 0.875rem;
+}

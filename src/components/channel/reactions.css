@@ -1,0 +1,18 @@
+.reactions {
+  display: flex;
+  flex-wrap: wrap;
+}
+.reaction {
+  background-color: #292929;
+  margin: 0 0.25rem 0.25rem 0;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  padding: 0 0.25rem;
+  font-size: 12px;
+}
+.count {
+  font-size: 11px;
+  color: #bcbcbc;
+  margin-left: 0.125rem;
+}

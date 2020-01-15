@@ -1,0 +1,18 @@
+details {
+  margin: 0.25rem 0;
+  border: 1px solid #c8c8c8;
+  border-radius: 0.5rem;
+  padding: 0.25rem 0.5rem;
+}
+summary {
+  color: #bcbcbc;
+  font-size: 0.825rem;
+  cursor: pointer;
+  outline: none;
+}
+.thread {
+  margin-top: 0.6rem;
+}
+.thread .message:first-child {
+  margin: 0.5rem 0 1.25rem 0;
+}
