@@ -8,9 +8,18 @@ import "./channel.css"
 export default function Channel({ data, pageContext }) {
   const threads = {}
   data.threads.edges.forEach(({ node }) => {
-    const { id, text, user_profile, thread_ts, reactions, attachments } = node
+    const {
+      id,
+      ts,
+      text,
+      user_profile,
+      thread_ts,
+      reactions,
+      attachments,
+    } = node
     const message = {
       id,
+      ts,
       text,
       user: user_profile,
       reactions,
@@ -52,6 +61,7 @@ export const query = graphql`
       edges {
         node {
           id
+          ts
           text
           user_profile {
             real_name
@@ -93,6 +103,7 @@ export const query = graphql`
       edges {
         node {
           id
+          ts
           text
           user_profile {
             real_name

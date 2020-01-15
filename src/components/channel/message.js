@@ -1,4 +1,5 @@
 import React from "react"
+import DateTime from "./datetime"
 import Text from "./text"
 import Files from "./files"
 import Attachments from "./attachments"
@@ -13,6 +14,7 @@ function getUserName(uid) {
 }
 
 export default ({
+  ts,
   user,
   text,
   files = null,
@@ -22,15 +24,20 @@ export default ({
   thread = null,
 }) => (
   <div className="message">
-    {!files && (
-      <div className="avatar">
-        <img src={user.image_72} alt="avatar" />
+    <div className="m-head">
+      {!files && (
+        <div className="avatar">
+          <img src={user.image_72} alt="avatar" />
+        </div>
+      )}
+      <div className="m-headline">
+        <p className="m-name">
+          {files ? getUserName(files[0].user) : user.real_name}
+        </p>
+        <DateTime ts={ts} />
       </div>
-    )}
+    </div>
     <div className="m-body">
-      <p className="m-name">
-        {files ? getUserName(files[0].user) : user.real_name}
-      </p>
       <Text txt={text} />
       {files && <Files files={files} />}
       {attachments && <Attachments attachments={attachments} />}
